@@ -1,1 +1,3 @@
-# exercicio1-java
+Hendryo Otávio Rodrigues
+PUC Minas - Coração Eucarístico
+Ciência da Computação
